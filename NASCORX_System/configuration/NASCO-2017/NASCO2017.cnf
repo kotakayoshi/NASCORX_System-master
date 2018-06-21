@@ -1,0 +1,20 @@
+[info]
+date: 2017-10-26
+
+[State]
+Beam1:
+
+[Polarizer]
+Beam1: 2SB-2012-006-N
+
+[mixer]
+Beam1_L: 2SB-2012-006-N
+
+[HEMT]
+Beam1_L: 2SB-2012-006-N
+
+[SIS-BB]
+Beam1_L: 2SB-2012-006-N
+
+[HEMT-BB]
+Beam1_L: 2SB-2012-006-N

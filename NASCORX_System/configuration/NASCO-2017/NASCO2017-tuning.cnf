@@ -1,0 +1,22 @@
+[Lo_Freq]
+lo-200ghz = 226.1
+
+[IF_PATT]
+patt1 = 3
+patt2 = 3
+
+[Spectrometer]
+device = Acqiris
+band = 1000[MHz]
+channel = 16384
+be_num = 16
+be1 = 1L-U
+be2 = 1R-L
+
+[beam1]
+sisv = 6.5
+vd = 9.6
+vg1 = 9.6
+vg2 = 9.6
+lo_att = 2.0
+state = 0

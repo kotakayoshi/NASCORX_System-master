@@ -1,0 +1,13 @@
+[Information]
+Telescope : NANTEN2
+Diameter[m] : 4
+Altitude[m] : 4865
+Location : Chile-Atacama
+Receiver : NASCO-RX
+BackEnd  : Aqiris
+
+[Configuration]
+Season : 2017
+Configuration : 1Beam-DSB
+SYS-config : NASCO2017.cnf
+SIS-config : NASCO2017-tuning.cnf
